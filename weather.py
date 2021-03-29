@@ -62,7 +62,7 @@ def CreateWidgets():
 
 def findWeather():
     #storing the API KEY
-    APIKey = "8a7e040d5104c96549661e54f673a1d0"
+    APIKey = "Your API Key"
     #storing the weather URL(base URL) to which request has to be sent
     weatherURL = "http://api.openweathermap.org/data/2.5/weather?"
     #fetchiing the user-input city name
